@@ -1,0 +1,21 @@
+2017-09-11 12:07:15 INFO  Main:78 - Start Execution
+2017-09-11 12:07:52 INFO  Main:78 - Start Execution
+2017-09-11 12:07:52 ERROR Main:80 - Invalid Arguments
+2017-09-11 12:07:52 INFO  Main:83 - End Execution
+2017-09-11 12:08:52 INFO  Main:78 - Start Execution
+2017-09-11 12:08:52 INFO  Main:59 - Algorithm supported
+2017-09-11 12:08:52 INFO  Main:71 - File exist
+2017-09-11 12:08:52 INFO  Main:35 - Processing SHA1 checksum
+2017-09-11 12:08:52 INFO  Main:37 - SHA1 Checksum: 17e9bef3d2adae4e55ccdce424a0f382
+2017-09-11 12:08:52 INFO  Main:38 - End of Processing
+2017-09-11 12:08:52 INFO  Main:83 - End Execution
+2017-09-11 12:09:23 INFO  Main:78 - Start Execution
+2017-09-11 12:09:23 INFO  Main:59 - Algorithm supported
+2017-09-11 12:09:23 INFO  Main:71 - File exist
+2017-09-11 12:09:23 INFO  Main:42 - Processing MD5 checksum
+2017-09-11 12:09:23 INFO  Main:44 - MD5 Checksum: 17e9bef3d2adae4e55ccdce424a0f382
+2017-09-11 12:09:23 INFO  Main:45 - End of Processing
+2017-09-11 12:09:23 INFO  Main:83 - End Execution
+2017-09-11 12:09:41 INFO  Main:78 - Start Execution
+2017-09-11 12:09:41 INFO  Main:23 - Algorithm Not Supported or File Not found
+2017-09-11 12:09:41 INFO  Main:83 - End Execution
